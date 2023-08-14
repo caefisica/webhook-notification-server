@@ -1,5 +1,5 @@
 {
-  "name": "facebook-webhook",
+  "name": "webhook-notification-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
